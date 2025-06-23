@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 78,
+    "height" : 53
+  }, {
+    "width" : 155,
+    "height" : 105
+  }, {
+    "width" : 310,
+    "height" : 210
+  }, {
+    "width" : 620,
+    "height" : 419
+  }, {
+    "width" : 1240,
+    "height" : 837
+  }, {
+    "width" : 2480,
+    "height" : 1674
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2480,
+  "@id" : "https://shihaoli9411.github.io/Projekt_PVW/images/2PVW",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1674
+}

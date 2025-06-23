@@ -1,0 +1,1065 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://shihaoli9411.github.io/Projekt_PVW/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in shihaoli9411/Projekt_PVW project"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/4AusstKat/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "4AusstKat"
+                ]
+            },
+            "height": 4032,
+            "width": 3024,
+            "items": [
+                {
+                    "id": "https://shihaoli9411.github.io/Projekt_PVW/images/4AusstKat/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/4AusstKat/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shihaoli9411.github.io/Projekt_PVW/images/4AusstKat/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 95,
+                                                "height": 126
+                                            },
+                                            {
+                                                "width": 189,
+                                                "height": 252
+                                            },
+                                            {
+                                                "width": 378,
+                                                "height": 504
+                                            },
+                                            {
+                                                "width": 756,
+                                                "height": 1008
+                                            },
+                                            {
+                                                "width": 1512,
+                                                "height": 2016
+                                            },
+                                            {
+                                                "width": 3024,
+                                                "height": 4032
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3024,
+                                        "@id": "https://shihaoli9411.github.io/Projekt_PVW/images/4AusstKat",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4032,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shihaoli9411.github.io/Projekt_PVW/images/4AusstKat/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/9PVW/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "9PVW"
+                ]
+            },
+            "height": 1712,
+            "width": 2437,
+            "items": [
+                {
+                    "id": "https://shihaoli9411.github.io/Projekt_PVW/images/9PVW/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/9PVW/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shihaoli9411.github.io/Projekt_PVW/images/9PVW/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 77,
+                                                "height": 54
+                                            },
+                                            {
+                                                "width": 153,
+                                                "height": 107
+                                            },
+                                            {
+                                                "width": 305,
+                                                "height": 214
+                                            },
+                                            {
+                                                "width": 610,
+                                                "height": 428
+                                            },
+                                            {
+                                                "width": 1219,
+                                                "height": 856
+                                            },
+                                            {
+                                                "width": 2437,
+                                                "height": 1712
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2437,
+                                        "@id": "https://shihaoli9411.github.io/Projekt_PVW/images/9PVW",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1712,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shihaoli9411.github.io/Projekt_PVW/images/9PVW/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/3neuss/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "3neuss"
+                ]
+            },
+            "height": 540,
+            "width": 810,
+            "items": [
+                {
+                    "id": "https://shihaoli9411.github.io/Projekt_PVW/images/3neuss/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/3neuss/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shihaoli9411.github.io/Projekt_PVW/images/3neuss/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 26,
+                                                "height": 17
+                                            },
+                                            {
+                                                "width": 51,
+                                                "height": 34
+                                            },
+                                            {
+                                                "width": 102,
+                                                "height": 68
+                                            },
+                                            {
+                                                "width": 203,
+                                                "height": 135
+                                            },
+                                            {
+                                                "width": 405,
+                                                "height": 270
+                                            },
+                                            {
+                                                "width": 810,
+                                                "height": 540
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 810,
+                                        "@id": "https://shihaoli9411.github.io/Projekt_PVW/images/3neuss",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 540,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shihaoli9411.github.io/Projekt_PVW/images/3neuss/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/12PVW/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "12PVW"
+                ]
+            },
+            "height": 2560,
+            "width": 1707,
+            "items": [
+                {
+                    "id": "https://shihaoli9411.github.io/Projekt_PVW/images/12PVW/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/12PVW/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shihaoli9411.github.io/Projekt_PVW/images/12PVW/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 54,
+                                                "height": 80
+                                            },
+                                            {
+                                                "width": 107,
+                                                "height": 160
+                                            },
+                                            {
+                                                "width": 214,
+                                                "height": 320
+                                            },
+                                            {
+                                                "width": 427,
+                                                "height": 640
+                                            },
+                                            {
+                                                "width": 854,
+                                                "height": 1280
+                                            },
+                                            {
+                                                "width": 1707,
+                                                "height": 2560
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1707,
+                                        "@id": "https://shihaoli9411.github.io/Projekt_PVW/images/12PVW",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2560,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shihaoli9411.github.io/Projekt_PVW/images/12PVW/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/10neuss/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "10neuss"
+                ]
+            },
+            "height": 540,
+            "width": 360,
+            "items": [
+                {
+                    "id": "https://shihaoli9411.github.io/Projekt_PVW/images/10neuss/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/10neuss/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shihaoli9411.github.io/Projekt_PVW/images/10neuss/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 12,
+                                                "height": 17
+                                            },
+                                            {
+                                                "width": 23,
+                                                "height": 34
+                                            },
+                                            {
+                                                "width": 45,
+                                                "height": 68
+                                            },
+                                            {
+                                                "width": 90,
+                                                "height": 135
+                                            },
+                                            {
+                                                "width": 180,
+                                                "height": 270
+                                            },
+                                            {
+                                                "width": 360,
+                                                "height": 540
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 360,
+                                        "@id": "https://shihaoli9411.github.io/Projekt_PVW/images/10neuss",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 540,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shihaoli9411.github.io/Projekt_PVW/images/10neuss/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/5PVW/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "5PVW"
+                ]
+            },
+            "height": 1706,
+            "width": 2560,
+            "items": [
+                {
+                    "id": "https://shihaoli9411.github.io/Projekt_PVW/images/5PVW/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/5PVW/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shihaoli9411.github.io/Projekt_PVW/images/5PVW/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 80,
+                                                "height": 54
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 107
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 214
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 427
+                                            },
+                                            {
+                                                "width": 1280,
+                                                "height": 853
+                                            },
+                                            {
+                                                "width": 2560,
+                                                "height": 1706
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2560,
+                                        "@id": "https://shihaoli9411.github.io/Projekt_PVW/images/5PVW",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1706,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shihaoli9411.github.io/Projekt_PVW/images/5PVW/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/1PVW/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "1PVW"
+                ]
+            },
+            "height": 1707,
+            "width": 2560,
+            "items": [
+                {
+                    "id": "https://shihaoli9411.github.io/Projekt_PVW/images/1PVW/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/1PVW/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shihaoli9411.github.io/Projekt_PVW/images/1PVW/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 80,
+                                                "height": 54
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 107
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 214
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 427
+                                            },
+                                            {
+                                                "width": 1280,
+                                                "height": 854
+                                            },
+                                            {
+                                                "width": 2560,
+                                                "height": 1707
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2560,
+                                        "@id": "https://shihaoli9411.github.io/Projekt_PVW/images/1PVW",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1707,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shihaoli9411.github.io/Projekt_PVW/images/1PVW/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/13AusstKat/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "13AusstKat"
+                ]
+            },
+            "height": 2938,
+            "width": 1928,
+            "items": [
+                {
+                    "id": "https://shihaoli9411.github.io/Projekt_PVW/images/13AusstKat/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/13AusstKat/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shihaoli9411.github.io/Projekt_PVW/images/13AusstKat/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 61,
+                                                "height": 92
+                                            },
+                                            {
+                                                "width": 121,
+                                                "height": 184
+                                            },
+                                            {
+                                                "width": 241,
+                                                "height": 368
+                                            },
+                                            {
+                                                "width": 482,
+                                                "height": 735
+                                            },
+                                            {
+                                                "width": 964,
+                                                "height": 1469
+                                            },
+                                            {
+                                                "width": 1928,
+                                                "height": 2938
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1928,
+                                        "@id": "https://shihaoli9411.github.io/Projekt_PVW/images/13AusstKat",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2938,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shihaoli9411.github.io/Projekt_PVW/images/13AusstKat/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/7PVW/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "7PVW"
+                ]
+            },
+            "height": 2560,
+            "width": 1707,
+            "items": [
+                {
+                    "id": "https://shihaoli9411.github.io/Projekt_PVW/images/7PVW/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/7PVW/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shihaoli9411.github.io/Projekt_PVW/images/7PVW/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 54,
+                                                "height": 80
+                                            },
+                                            {
+                                                "width": 107,
+                                                "height": 160
+                                            },
+                                            {
+                                                "width": 214,
+                                                "height": 320
+                                            },
+                                            {
+                                                "width": 427,
+                                                "height": 640
+                                            },
+                                            {
+                                                "width": 854,
+                                                "height": 1280
+                                            },
+                                            {
+                                                "width": 1707,
+                                                "height": 2560
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1707,
+                                        "@id": "https://shihaoli9411.github.io/Projekt_PVW/images/7PVW",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2560,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shihaoli9411.github.io/Projekt_PVW/images/7PVW/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/2PVW/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "2PVW"
+                ]
+            },
+            "height": 1674,
+            "width": 2480,
+            "items": [
+                {
+                    "id": "https://shihaoli9411.github.io/Projekt_PVW/images/2PVW/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/2PVW/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shihaoli9411.github.io/Projekt_PVW/images/2PVW/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 78,
+                                                "height": 53
+                                            },
+                                            {
+                                                "width": 155,
+                                                "height": 105
+                                            },
+                                            {
+                                                "width": 310,
+                                                "height": 210
+                                            },
+                                            {
+                                                "width": 620,
+                                                "height": 419
+                                            },
+                                            {
+                                                "width": 1240,
+                                                "height": 837
+                                            },
+                                            {
+                                                "width": 2480,
+                                                "height": 1674
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2480,
+                                        "@id": "https://shihaoli9411.github.io/Projekt_PVW/images/2PVW",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1674,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shihaoli9411.github.io/Projekt_PVW/images/2PVW/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/11PVW/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "11PVW"
+                ]
+            },
+            "height": 1920,
+            "width": 2560,
+            "items": [
+                {
+                    "id": "https://shihaoli9411.github.io/Projekt_PVW/images/11PVW/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/11PVW/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shihaoli9411.github.io/Projekt_PVW/images/11PVW/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 80,
+                                                "height": 60
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 120
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 240
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 480
+                                            },
+                                            {
+                                                "width": 1280,
+                                                "height": 960
+                                            },
+                                            {
+                                                "width": 2560,
+                                                "height": 1920
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2560,
+                                        "@id": "https://shihaoli9411.github.io/Projekt_PVW/images/11PVW",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1920,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shihaoli9411.github.io/Projekt_PVW/images/11PVW/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/6neuss/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "6neuss"
+                ]
+            },
+            "height": 540,
+            "width": 360,
+            "items": [
+                {
+                    "id": "https://shihaoli9411.github.io/Projekt_PVW/images/6neuss/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/6neuss/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shihaoli9411.github.io/Projekt_PVW/images/6neuss/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 12,
+                                                "height": 17
+                                            },
+                                            {
+                                                "width": 23,
+                                                "height": 34
+                                            },
+                                            {
+                                                "width": 45,
+                                                "height": 68
+                                            },
+                                            {
+                                                "width": 90,
+                                                "height": 135
+                                            },
+                                            {
+                                                "width": 180,
+                                                "height": 270
+                                            },
+                                            {
+                                                "width": 360,
+                                                "height": 540
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 360,
+                                        "@id": "https://shihaoli9411.github.io/Projekt_PVW/images/6neuss",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 540,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shihaoli9411.github.io/Projekt_PVW/images/6neuss/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/8neuss/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "8neuss"
+                ]
+            },
+            "height": 540,
+            "width": 360,
+            "items": [
+                {
+                    "id": "https://shihaoli9411.github.io/Projekt_PVW/images/8neuss/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shihaoli9411.github.io/Projekt_PVW/images/8neuss/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shihaoli9411.github.io/Projekt_PVW/images/8neuss/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 12,
+                                                "height": 17
+                                            },
+                                            {
+                                                "width": 23,
+                                                "height": 34
+                                            },
+                                            {
+                                                "width": 45,
+                                                "height": 68
+                                            },
+                                            {
+                                                "width": 90,
+                                                "height": 135
+                                            },
+                                            {
+                                                "width": 180,
+                                                "height": 270
+                                            },
+                                            {
+                                                "width": 360,
+                                                "height": 540
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 360,
+                                        "@id": "https://shihaoli9411.github.io/Projekt_PVW/images/8neuss",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 540,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shihaoli9411.github.io/Projekt_PVW/images/8neuss/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
